@@ -1,0 +1,15 @@
+[03-Nov-2014 11:58:13 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/countryh/public_html/map.php on line 2
+[03-Nov-2014 16:06:39 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/countryh/public_html/map.php on line 2
+[03-Nov-2014 17:02:14 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/countryh/public_html/map.php on line 2
+[04-Nov-2014 23:49:11 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/countryh/public_html/map.php on line 2
+[05-Nov-2014 05:38:17 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/countryh/public_html/map.php on line 2
+[05-Nov-2014 13:28:37 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/countryh/public_html/map.php on line 2
+[05-Nov-2014 20:04:57 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/countryh/public_html/map.php on line 2
+[05-Nov-2014 21:37:52 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/countryh/public_html/map.php on line 2
+[06-Nov-2014 08:35:52 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/countryh/public_html/map.php on line 2
+[06-Nov-2014 10:50:01 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/countryh/public_html/map.php on line 2
+[06-Nov-2014 10:50:37 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/countryh/public_html/map.php on line 2
+[08-Jan-2019 21:47:42 America/Toronto] PHP Warning:  include(app/Mage.php): failed to open stream: No such file or directory in Command line code on line 1
+[08-Jan-2019 21:47:42 America/Toronto] PHP Warning:  include(app/Mage.php): failed to open stream: No such file or directory in Command line code on line 1
+[08-Jan-2019 21:47:42 America/Toronto] PHP Warning:  include(): Failed opening 'app/Mage.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in Command line code on line 1
+[08-Jan-2019 21:47:42 America/Toronto] PHP Fatal error:  Class 'Mage' not found in Command line code on line 1
