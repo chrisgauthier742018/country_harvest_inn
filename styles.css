@@ -211,3 +211,8 @@ ul li {
   
   
 }
+
+.features_image_flex_container img {
+  width: 50vw;
+  height: 50vh;
+}
