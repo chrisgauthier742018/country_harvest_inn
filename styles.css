@@ -157,11 +157,9 @@ ul li a {
     width: 50vw;
   }
 
-  .featured_main_flex_box_container {
-    display: flex;
-    justify-content: center;
-    margin-top: 50px;
-    gap: 30px;
+  section .features {
+    width: 50vw;
+    height:100vh;
   }
 
   .features h1 {
@@ -176,3 +174,9 @@ ul li a {
     align-items: center;
     gap: 30px;
   }
+
+.features_list_main_container {
+  display: flex;
+  justify-content: center;
+  align-center: center;
+}
