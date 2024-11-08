@@ -41,13 +41,13 @@ h6 {
 }
 
 a {
-    color: var(--p-color);
+    color: var(--primary-color);
     text-decoration: none;
   }
 
 a:hover {
     color: var(--primary-color);
-    border-bottom: 3px solid var(--primary-color);
+    border-bottom: 3px solid var(--dark-color);
 }
 
 
@@ -65,7 +65,7 @@ a:hover {
     margin-left: 500px;
 }
 .logo-color {
-    color: red;
+    color: var(--primary-color);
 }
 .hero-flex-container h1 {
     color:white;
