@@ -128,8 +128,8 @@ ul li {
 
 }
 
-ul li a {
-    text-decoration: none;
+.nav-links li a {
+  list-style-type: none;;
 }
 
 .lead {
@@ -152,23 +152,13 @@ ul li a {
     color: var(--primary-color);
   }
   
-  .image_width {
-    height: 50vh;
-    width: 50vw;
-  }
-
-  section .features {
-    width: 50vw;
-    height:100vh;
-  }
-
-  .features h1 {
+   .features h1 {
       text-align: center;
       color: var(--primary-color);
       text-transform: capitalize;
   }
 
-  .features_main_conatiner {
+  .features_main_container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -178,5 +168,10 @@ ul li a {
 .features_list_main_container {
   display: flex;
   justify-content: center;
-  align-center: center;
+  align-items: flex-start;
+}
+
+.features_list_main_container ul li {
+  max-width: 300px;
+  list-style: square;
 }
