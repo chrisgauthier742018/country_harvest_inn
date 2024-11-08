@@ -211,3 +211,29 @@ ul li {
   
   
 }
+
+.title_container h1 {
+  text-align:center;
+  color:var(--primary-color);
+  text-transform: capitalize;
+}
+
+.comments_container {
+  width: 100vw;
+  height: 100vh;
+}
+.comments_flex_container {
+  display: flex;
+  justify-content: center;
+  margin-left: 500px;
+  flex-direction: column;
+  margin-left: 800px;
+}
+
+.comment p {
+  max-width: 400px;
+}
+
+.comment h3 {
+  color: var(--primary-color);
+}
