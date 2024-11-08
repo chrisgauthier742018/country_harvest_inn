@@ -71,7 +71,7 @@ h6 {
 }
 
 .logo-color {
-    color: red;
+    color: var(--primary-color);
 }
 
 
@@ -150,4 +150,29 @@ ul li a {
     padding: 30px;
     border-radius: 10%;
     color: var(--primary-color);
+  }
+  
+  .image_width {
+    height: 100vh;
+    width: 100vw;
+  }
+
+  .featured_main_flex_box_container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 30px;
+  }
+
+  .features h1 {
+      text-align: center;
+      color: var(--primary-color);
+      text-transform: capitalize;
+  }
+
+  .features_main_conatiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
   }
