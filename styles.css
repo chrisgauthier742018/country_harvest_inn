@@ -153,8 +153,8 @@ ul li a {
   }
   
   .image_width {
-    height: 100vh;
-    width: 100vw;
+    height: 50vh;
+    width: 50vw;
   }
 
   .featured_main_flex_box_container {
