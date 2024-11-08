@@ -175,3 +175,13 @@ ul li {
   max-width: 300px;
   list-style: square;
 }
+
+.more_features_flex_container {
+  display: flex;
+  width: 100vw;
+  height: 50vh;
+  margin-top: 20px;
+  justify-content: center;
+  object-fit: cover;
+
+}
